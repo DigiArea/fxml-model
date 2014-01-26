@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Fxml
+Bundle-SymbolicName: com.digiarea.fxml
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: DAGXP
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: com.digiarea.fxml,
+ com.digiarea.fxml.arrow,
+ com.digiarea.fxml.io,
+ com.digiarea.fxml.parser,
+ com.digiarea.fxml.visitor
